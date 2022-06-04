@@ -1,2 +1,2 @@
 # Library Management System
- Library Management System where you can add, delete, search, and issue a book.
+Full functioning Library Management System where Librarians can add or delete books while also searching and issuing books to students. Books' information are stored within files using Serialization and Deserialization. Implemented with Java.	
