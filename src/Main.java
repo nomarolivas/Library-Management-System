@@ -19,7 +19,6 @@ public class Main {
 
 
     public static void main(String[] args) {
-
         while (runProgram) {
             //Start Menu.
             Scanner userInput = new Scanner(System.in);
